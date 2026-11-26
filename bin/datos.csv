@@ -1,0 +1,8 @@
+id,name,last_name,gender,age,id_boss,is_dead,in_jail,was_boss,is_boss
+1,Antonio,Rossi,H,68,0,0,0,1,1
+2,Marco,Rossi,H,45,1,0,0,0,0
+3,Luca,Rossi,H,43,1,0,0,0,0
+4,Carlo,Rossi,H,25,2,0,0,0,0
+5,Giulia,Rossi,M,23,2,0,0,0,0
+6,Paolo,Rossi,H,28,3,0,0,0,0
+7,Sofia,Rossi,M,24,3,0,0,0,0
